@@ -27,7 +27,7 @@ The calendar display includes weekday names and the correct alignment of dates, 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/Calendar-Application.git
+    git clone https://github.com/Kushalobroy/Calender-Using-C.git
     cd Calendar-Application
     ```
 
